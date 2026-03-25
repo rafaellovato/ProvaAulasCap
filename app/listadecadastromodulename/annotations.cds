@@ -1,0 +1,1 @@
+using AulasBP as service from '../../srv/service';
